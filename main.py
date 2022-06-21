@@ -9,7 +9,7 @@ from sklearn.cluster import KMeans
 
 from pca import *
 from evaluation import *
-from vgg_face import *
+from neural_network import *
 
 
 def cut_face(frame, eyes):
